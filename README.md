@@ -1,5 +1,7 @@
 # Alchemists Game
 
+To see development repo : https://github.com/KU-Comp302-CizikCizik/KU_Alchemists
+
 Alchemists is a online fantastic board game that immerses players in a magical world
 where they must solve the riddles of magical ingredients and potions to become better
 alchemists. 
