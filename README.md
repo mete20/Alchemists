@@ -1,6 +1,6 @@
-# KU_Alchemists Game
+# Alchemists Game
 
-KU Alchemists is a online fantastic board game that immerses players in a magical world
+Alchemists is a online fantastic board game that immerses players in a magical world
 where they must solve the riddles of magical ingredients and potions to become better
 alchemists. 
 
@@ -10,6 +10,14 @@ alchemist, grasp the game's mechanics, and become an expert at deduction within 
 game. Alchemists, an impressive and difficult strategy game for board game
 enthusiasts, aims to give users a fantastic gaming experience.
 
+
+* Developed a full-stack web app allowing users to rate and access information on IMDb’s top movies.
+* Learned REST APIs and developed web APIs using FastAPI. Used Docker for creating and managing development
+environments and deployment processes.
+* Integrated OAuth2 for Google account sign-in. Learned Authentication/Authorization protocols.
+* Automated deployment using GitHub Actions CI/CD. Ensured backend reliability through unit testing.
+* Utilized: Python, FastAPI, Docker, Docker Compose, MySQL, database migrations with Alembic, CI/CD pipelines, unit
+testing, HTML/CSS, JavaScript.
 
 ## Authors
 
